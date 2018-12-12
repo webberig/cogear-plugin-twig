@@ -1,0 +1,23 @@
+{
+  "name": "cogear-plugin-twig",
+  "version": "1.0.0",
+  "description": "Cogear.js plugin adding support for Twig templates",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/webberig/cogear-plugin-twig.git"
+  },
+  "keywords": [
+    "cogearjs",
+    "twig"
+  ],
+  "author": "Mathieu Maes <mathieu@webberig.be>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/webberig/cogear-plugin-twig/issues"
+  },
+  "homepage": "https://github.com/webberig/cogear-plugin-twig#readme"
+}
